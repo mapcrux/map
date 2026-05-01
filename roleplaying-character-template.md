@@ -4,6 +4,8 @@
 - **Height:**
 - **Race:**
 
+## Physical Description
+
 ## Background
 - **Personality Traits:**
   - 
@@ -18,7 +20,7 @@ _Score range: 1-20_
 
 - **Strength:**
 - **Speed:**
-- **Stamina:**
+- **Stamina:** 
 - **Dexterity:**
 - **Intelligence:**
 - **Perception:**
@@ -64,6 +66,10 @@ _Score range: 1-20_
 ## History
 - Milestone 1
 - Milestone 2
+
+## Relationships
+- **npc-1:**
+  - **Their relationship milestone 1**
 
 ## Equipment
 - **Item:**
