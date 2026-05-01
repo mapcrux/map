@@ -21,7 +21,7 @@ Do not replace the dungeon master as narrator. Do not overwrite NPC personality 
 ## Operating Loop Per Turn
 
 1. Read incoming player actions and recent world updates.
-2. Decide whether to route to dungeon-master, npc, or both.
+2. Decide whether to route to dungeon-master, npcs, or both.
 3. Collect outputs from subagents.
 4. Resolve mechanics (checks, combat order, rest effects, inventory, milestones).
 5. Update persistent files.
