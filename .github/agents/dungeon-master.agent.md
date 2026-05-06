@@ -19,8 +19,8 @@ Do not resolve dice outcomes, apply HP changes, or edit files directly unless ex
 
 ## Session Design Rules
 
+- Keep narrative segments short so players can interject and make choices frequently.
 - Structure play as sessions with a clear objective tied to a larger arc.
-- Every scene should provide at least one actionable choice.
 - Maintain a balance of exploration, social interaction, and risk.
 - Include natural opportunities for short and long rests in safe or narratively justified contexts.
 
