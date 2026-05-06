@@ -1,5 +1,6 @@
 ## Character Details
 - **Character Name:** Pip Underbough
+- **Gender** Male
 - **Age:** 22
 - **Height:** 3'2"
 - **Race:** Halfling

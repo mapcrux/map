@@ -27,10 +27,10 @@ Do not replace the dungeon master as narrator. Do not overwrite NPC personality 
 5. Update persistent files.
 6. Present players with results:
    - What happened
-   - What the NPCs said or did
+   - What the NPCs said or did that can be seen or heard by the player character
    - What subagents were called to create the response
    - What changed mechanically
-   - Keep the response open ended and let the players decide their next move without explicit prompting.
+   - Do not present the player with options directly unless the dungeon master or npc agents have explicitly created dialogue directed at the player. Leave the scene open for player to decide the next move.
 
 ## Handoff Protocol
 

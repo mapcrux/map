@@ -1,5 +1,6 @@
 ## Character Details
 - **Character Name:** Thrain Ironfist
+- **Gender** Male
 - **Age:** 142
 - **Height:** 4'8"
 - **Race:** Dwarf

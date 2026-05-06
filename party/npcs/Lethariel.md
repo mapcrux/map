@@ -1,5 +1,6 @@
 ## Character Details
 - **Character Name:** Lethariel Thalanor
+- **Gender** Female
 - **Age:** 120 (appears mid-20s)
 - **Height:** 5'9"
 - **Race:** Elf

@@ -1,5 +1,6 @@
 ## Character Details
 - **Character Name:**
+- **Gender**
 - **Age:**
 - **Height:**
 - **Race:**

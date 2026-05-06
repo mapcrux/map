@@ -1,5 +1,6 @@
 ## Character Details
 - **Character Name:** Sister Elowen
+- **Gender** Female
 - **Age:** 27
 - **Height:** 5'7"
 - **Race:** Human
