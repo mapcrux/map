@@ -33,6 +33,7 @@ _Score range: 1-20_
 - **Perception:** 5
 - **Wisdom:** 4
 - **Charisma:** 3
+- **Defence:** 6
 
 ## Skills
 _Score range: 1-20_
@@ -69,6 +70,12 @@ _Score range: 1-20_
 	- **Reputation:**
 - **Faction Name:**
 	- **Reputation:**
+
+## Equipment
+- **Grimheld (Waraxe):**
+	- **Description:** Heavy, clan-forged, worn haft — Thrain speaks to it before battle
+- **Shield:**
+	- **Description:** Nearly as tall as Thrain, dented, etched with Ironfist runes
 
 ## History
 - Milestone 1: Retired after a tragic battle

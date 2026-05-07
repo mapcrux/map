@@ -21,12 +21,13 @@ _Score range: 1-20_
 
 - **Strength:**
 - **Speed:**
-- **Stamina:** 
+- **Stamina:**
 - **Dexterity:**
 - **Intelligence:**
 - **Perception:**
 - **Wisdom:**
 - **Charisma:**
+- **Defence:**
 
 ## Skills
 _Score range: 1-20_

@@ -88,16 +88,35 @@ Use kebab-case filenames for new setting entries.
 - Select the most relevant skill; if none fits, use best-matching attribute.
 - Set and communicate difficulty before resolving.
 - Record outcome and any state changes immediately.
+- Score for the check is determined by the relevant skill or attribute + a random integer from 1 to 20. The check succeeds if the score meets or exceeds the DC set by the dungeon master.
 
 ## Combat Rules
 
-- Maintain initiative and turn order for all participants.
-- Ensure each turn output includes:
-  - Acting character
-  - Declared action
-  - Resolution outcome
-  - Resulting state changes
-- Keep pacing tight: no skipped turns, no duplicate turns, no unresolved declared actions.
+**Turn Structure**
+- Track initiative order for all participants before the first turn.
+- Each turn must resolve in order — no skipped turns, duplicate turns, or unresolved declared actions.
+- For each turn, output: acting character, declared action, resolution outcome, resulting state changes.
+
+**Attack Resolution**
+1. Choose the attack skill based on the attack type:
+   - Physical: `archery`, `melee`, `throw`, or `martial arts`
+   - Divine magic: `wisdom`
+   - Arcane magic: `intelligence`
+2. Roll: `attack score = relevant skill/attribute + 1d20 (random integer 1–20)`
+3. Compare: `attack score` vs. `target's block score + target's defense attribute`
+   - If `attack score >= block + defense` → the attack hits; apply a wound
+   - If `attack score < block + defense` → the attack misses; no wound
+
+**Wound Severity**
+Wound severity is based on the margin: `margin = attack score − (block + defense)`
+
+| Margin | Wound Level |
+|--------|-------------|
+| 1–4    | Minor wound |
+| 5–9    | Moderate wound |
+| 10+    | Major wound |
+
+Record the wound on the target's character sheet immediately.
 
 ## Milestones And Leveling
 

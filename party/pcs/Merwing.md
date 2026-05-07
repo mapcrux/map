@@ -32,6 +32,7 @@ _Score range: 1-20_
 - **Perception:** 8
 - **Wisdom:** 7
 - **Charisma:** 5
+- **Defence:** 5
 
 ## Skills
 _Score range: 1-20_
